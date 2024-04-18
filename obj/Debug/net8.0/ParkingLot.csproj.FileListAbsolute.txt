@@ -1,0 +1,14 @@
+C:\xampp\htdocs\ParkingLot\bin\Debug\net8.0\ParkingLot.exe
+C:\xampp\htdocs\ParkingLot\bin\Debug\net8.0\ParkingLot.deps.json
+C:\xampp\htdocs\ParkingLot\bin\Debug\net8.0\ParkingLot.runtimeconfig.json
+C:\xampp\htdocs\ParkingLot\bin\Debug\net8.0\ParkingLot.dll
+C:\xampp\htdocs\ParkingLot\bin\Debug\net8.0\ParkingLot.pdb
+C:\xampp\htdocs\ParkingLot\obj\Debug\net8.0\ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\ParkingLot\obj\Debug\net8.0\ParkingLot.AssemblyInfoInputs.cache
+C:\xampp\htdocs\ParkingLot\obj\Debug\net8.0\ParkingLot.AssemblyInfo.cs
+C:\xampp\htdocs\ParkingLot\obj\Debug\net8.0\ParkingLot.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\ParkingLot\obj\Debug\net8.0\ParkingLot.dll
+C:\xampp\htdocs\ParkingLot\obj\Debug\net8.0\refint\ParkingLot.dll
+C:\xampp\htdocs\ParkingLot\obj\Debug\net8.0\ParkingLot.pdb
+C:\xampp\htdocs\ParkingLot\obj\Debug\net8.0\ParkingLot.genruntimeconfig.cache
+C:\xampp\htdocs\ParkingLot\obj\Debug\net8.0\ref\ParkingLot.dll
